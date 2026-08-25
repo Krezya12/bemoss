@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BazelProjectContextService">
+    <option name="bazelBin" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/execroot/_main/bazel-out/k8-fastbuild/bin" />
+    <option name="bazelReleaseVersion" value="9.1.0" />
+    <option name="execRoot" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/execroot/_main" />
+    <option name="workspaceName" value="_main" />
+  </component>
+  <component name="BazelRepoMappingService">
+    <option name="apparentRepoNameToCanonicalName">
+      <map>
+        <entry key="" value="" />
+        <entry key="aspect_rules_lint" value="aspect_rules_lint+" />
+        <entry key="bazel_features" value="bazel_features+" />
+        <entry key="bazel_skylib" value="bazel_skylib+" />
+        <entry key="bazel_tools" value="bazel_tools" />
+        <entry key="buildifier_prebuilt" value="buildifier_prebuilt+" />
+        <entry key="bun_darwin_aarch64" value="+http_archive+bun_darwin_aarch64" />
+        <entry key="bun_darwin_x64" value="+http_archive+bun_darwin_x64" />
+        <entry key="bun_linux_aarch64" value="+http_archive+bun_linux_aarch64" />
+        <entry key="bun_linux_x64" value="+http_archive+bun_linux_x64" />
+        <entry key="bun_windows_aarch64" value="+http_archive+bun_windows_aarch64" />
+        <entry key="bun_windows_x64" value="+http_archive+bun_windows_x64" />
+        <entry key="community" value="" />
+        <entry key="debugger_test_deps_debugger_agent" value="+http_file+debugger_test_deps_debugger_agent" />
+        <entry key="jewel_deps_detekt" value="+http_file+jewel_deps_detekt" />
+        <entry key="jewel_deps_kotlinpoet" value="+http_file+jewel_deps_kotlinpoet" />
+        <entry key="jewel_deps_ktfmt" value="+http_file+jewel_deps_ktfmt" />
+        <entry key="jps_dynamic_deps_community" value="+jps_dynamic_deps_community_extension+jps_dynamic_deps_community" />
+        <entry key="jps_to_bazel" value="jps_to_bazel+" />
+        <entry key="kmp_deps" value="+kmp+kmp_deps" />
+        <entry key="kotlin_test_deps" value="+kotlin_test_deps+kotlin_test_deps" />
+        <entry key="lib" value="lib+" />
+        <entry key="llvm" value="llvm+" />
+        <entry key="nodejs_darwin_amd64" value="rules_nodejs++node+nodejs_darwin_amd64" />
+        <entry key="nodejs_darwin_arm64" value="rules_nodejs++node+nodejs_darwin_arm64" />
+        <entry key="nodejs_linux_amd64" value="rules_nodejs++node+nodejs_linux_amd64" />
+        <entry key="nodejs_linux_arm64" value="rules_nodejs++node+nodejs_linux_arm64" />
+        <entry key="nodejs_windows_amd64" value="rules_nodejs++node+nodejs_windows_amd64" />
+        <entry key="nodejs_windows_arm64" value="rules_nodejs++node+nodejs_windows_arm64" />
+        <entry key="platforms" value="platforms" />
+        <entry key="protobuf" value="protobuf+" />
+        <entry key="remote_java_tools_windows_with_vc_redist" value="+http_archive+remote_java_tools_windows_with_vc_redist" />
+        <entry key="remotejbr25_linux_aarch64_toolchain_config_repo" value="+jbr_toolchains+remotejbr25_linux_aarch64_toolchain_config_repo" />
+        <entry key="remotejbr25_linux_toolchain_config_repo" value="+jbr_toolchains+remotejbr25_linux_toolchain_config_repo" />
+        <entry key="remotejbr25_macos_aarch64_toolchain_config_repo" value="+jbr_toolchains+remotejbr25_macos_aarch64_toolchain_config_repo" />
+        <entry key="remotejbr25_macos_toolchain_config_repo" value="+jbr_toolchains+remotejbr25_macos_toolchain_config_repo" />
+        <entry key="remotejbr25_win_arm64_toolchain_config_repo" value="+jbr_toolchains+remotejbr25_win_arm64_toolchain_config_repo" />
+        <entry key="remotejbr25_win_toolchain_config_repo" value="+jbr_toolchains+remotejbr25_win_toolchain_config_repo" />
+        <entry key="rules_java" value="rules_java+" />
+        <entry key="rules_jvm" value="rules_jvm+" />
+        <entry key="rules_kotlin" value="rules_kotlin+" />
+        <entry key="rules_nodejs" value="rules_nodejs+" />
+        <entry key="rules_python" value="rules_python+" />
+        <entry key="windows_support" value="windows_support+" />
+        <entry key="xml.bzl" value="xml.bzl+" />
+      </map>
+    </option>
+    <option name="canonicalRepoNameToPath">
+      <map>
+        <entry key="" value="$PROJECT_DIR$" />
+        <entry key="+http_archive+bun_darwin_aarch64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_archive+bun_darwin_aarch64" />
+        <entry key="+http_archive+bun_darwin_x64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_archive+bun_darwin_x64" />
+        <entry key="+http_archive+bun_linux_aarch64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_archive+bun_linux_aarch64" />
+        <entry key="+http_archive+bun_linux_x64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_archive+bun_linux_x64" />
+        <entry key="+http_archive+bun_windows_aarch64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_archive+bun_windows_aarch64" />
+        <entry key="+http_archive+bun_windows_x64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_archive+bun_windows_x64" />
+        <entry key="+http_archive+remote_java_tools_windows_with_vc_redist" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_archive+remote_java_tools_windows_with_vc_redist" />
+        <entry key="+http_file+debugger_test_deps_debugger_agent" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_file+debugger_test_deps_debugger_agent" />
+        <entry key="+http_file+jewel_deps_detekt" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_file+jewel_deps_detekt" />
+        <entry key="+http_file+jewel_deps_kotlinpoet" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_file+jewel_deps_kotlinpoet" />
+        <entry key="+http_file+jewel_deps_ktfmt" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+http_file+jewel_deps_ktfmt" />
+        <entry key="+jbr_toolchains+remotejbr25_linux_aarch64_toolchain_config_repo" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+jbr_toolchains+remotejbr25_linux_aarch64_toolchain_config_repo" />
+        <entry key="+jbr_toolchains+remotejbr25_linux_toolchain_config_repo" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+jbr_toolchains+remotejbr25_linux_toolchain_config_repo" />
+        <entry key="+jbr_toolchains+remotejbr25_macos_aarch64_toolchain_config_repo" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+jbr_toolchains+remotejbr25_macos_aarch64_toolchain_config_repo" />
+        <entry key="+jbr_toolchains+remotejbr25_macos_toolchain_config_repo" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+jbr_toolchains+remotejbr25_macos_toolchain_config_repo" />
+        <entry key="+jbr_toolchains+remotejbr25_win_arm64_toolchain_config_repo" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+jbr_toolchains+remotejbr25_win_arm64_toolchain_config_repo" />
+        <entry key="+jbr_toolchains+remotejbr25_win_toolchain_config_repo" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+jbr_toolchains+remotejbr25_win_toolchain_config_repo" />
+        <entry key="+jps_dynamic_deps_community_extension+jps_dynamic_deps_community" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+jps_dynamic_deps_community_extension+jps_dynamic_deps_community" />
+        <entry key="+kmp+kmp_deps" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+kmp+kmp_deps" />
+        <entry key="+kotlin_test_deps+kotlin_test_deps" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/+kotlin_test_deps+kotlin_test_deps" />
+        <entry key="aspect_rules_lint+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/aspect_rules_lint+" />
+        <entry key="bazel_features+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/bazel_features+" />
+        <entry key="bazel_skylib+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/bazel_skylib+" />
+        <entry key="bazel_tools" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/bazel_tools" />
+        <entry key="buildifier_prebuilt+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/buildifier_prebuilt+" />
+        <entry key="jps_to_bazel+" value="$PROJECT_DIR$/platform/build-scripts/bazel" />
+        <entry key="lib+" value="$PROJECT_DIR$/lib" />
+        <entry key="llvm+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/llvm+" />
+        <entry key="platforms" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/platforms" />
+        <entry key="protobuf+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/protobuf+" />
+        <entry key="rules_java+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_java+" />
+        <entry key="rules_jvm+" value="$PROJECT_DIR$/build/jvm-rules" />
+        <entry key="rules_kotlin+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_kotlin+" />
+        <entry key="rules_nodejs+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_nodejs+" />
+        <entry key="rules_nodejs++node+nodejs_darwin_amd64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_nodejs++node+nodejs_darwin_amd64" />
+        <entry key="rules_nodejs++node+nodejs_darwin_arm64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_nodejs++node+nodejs_darwin_arm64" />
+        <entry key="rules_nodejs++node+nodejs_linux_amd64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_nodejs++node+nodejs_linux_amd64" />
+        <entry key="rules_nodejs++node+nodejs_linux_arm64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_nodejs++node+nodejs_linux_arm64" />
+        <entry key="rules_nodejs++node+nodejs_windows_amd64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_nodejs++node+nodejs_windows_amd64" />
+        <entry key="rules_nodejs++node+nodejs_windows_arm64" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_nodejs++node+nodejs_windows_arm64" />
+        <entry key="rules_python+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/rules_python+" />
+        <entry key="windows_support+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/windows_support+" />
+        <entry key="xml.bzl+" value="$USER_HOME$/.cache/JetBrains/MonorepoBazel/de77a73e1d16fd9941e65442ffc125fb/external/xml.bzl+" />
+      </map>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d424761-f697-4eaf-9624-103c1d555f61" name="Changes" comment="changed logo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Hj28tekSH6QxjlddLBbinrGWAW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Bazel.Run //build:idea_community.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHELLCHECK.PATH": "/home/user/.local/share/JetBrains/IntelliJIdea2026.2/Shell Script/shellcheck",
+    "bazel.project.detector.is.bazel.project": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/user/IdeaProjects/bemoss/bemoss/src/com/bemoss/ide/wizard",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bemoss.ide.wizard" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bemoss/src/com/bemoss/ide/wizard" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Bazel.Run //build:idea_community">
+    <configuration name="Run //build:android_studio" type="BazelRunConfigurationType">
+      <bsp-state handler-provider-id="JvmRunHandlerProvider" check-visibility="true">
+        <bsp-target>@//build:android_studio</bsp-target>
+        <handler-state />
+      </bsp-state>
+      <method v="2">
+        <option name="KotlinCoroutineLibraryFinderBeforeRunTaskProvider" enabled="false" />
+        <option name="BuildScriptBeforeRunTaskProvider" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Run //build:i_build_target" type="BazelRunConfigurationType">
+      <bsp-state handler-provider-id="JvmRunHandlerProvider" check-visibility="true">
+        <bsp-target>@//build:i_build_target</bsp-target>
+        <handler-state />
+      </bsp-state>
+      <method v="2">
+        <option name="KotlinCoroutineLibraryFinderBeforeRunTaskProvider" enabled="false" />
+        <option name="BuildScriptBeforeRunTaskProvider" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Run //build:idea_community" type="BazelRunConfigurationType">
+      <bsp-state handler-provider-id="JvmRunHandlerProvider" check-visibility="true">
+        <bsp-target>@//build:idea_community</bsp-target>
+        <handler-state />
+      </bsp-state>
+      <method v="2">
+        <option name="KotlinCoroutineLibraryFinderBeforeRunTaskProvider" enabled="false" />
+        <option name="BuildScriptBeforeRunTaskProvider" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Run //jewel/standalone:standalone_sample" type="BazelRunConfigurationType">
+      <bsp-state handler-provider-id="JvmRunHandlerProvider" check-visibility="true">
+        <bsp-target>@//platform/jewel/samples/standalone:standalone_sample</bsp-target>
+        <handler-state />
+      </bsp-state>
+      <method v="2">
+        <option name="KotlinCoroutineLibraryFinderBeforeRunTaskProvider" enabled="false" />
+        <option name="BuildScriptBeforeRunTaskProvider" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="platform.platform-impl.internal.internal" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d424761-f697-4eaf-9624-103c1d555f61" name="Changes" comment="" />
+      <created>1786367001368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786367001368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed logo" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

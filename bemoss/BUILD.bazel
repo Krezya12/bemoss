@@ -1,0 +1,13 @@
+load("@rules_jvm//:jvm.bzl", "jvm_library")
+
+jvm_library(
+    name = "main",
+    srcs = glob(["src/**/*.java", "src/**/*.kt"], allow_empty = True),
+    resources = glob(["src/META-INF/plugin.xml"]), # <- Говорим Базелю забрать наш манифест
+    visibility = ["//visibility:public"],
+    deps = [
+        "//platform/platform-api:ide",
+        "//platform/lang-api:lang",
+        "//platform/core-api:core",
+    ],
+)

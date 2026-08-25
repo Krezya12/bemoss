@@ -1,0 +1,16 @@
+<!-- Copyright 2000-2026 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<idea-plugin>
+  <id>com.bemoss.core</id>
+  <name>BeMoss Core Base</name>
+  <vendor>BeMoss Team</vendor>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Наш глобальный фильтр левой панели -->
+    <newProjectWizard.stepProviderFilter implementation="com.bemoss.ide.wizard.BeMossNewProjectWizardFilter"/>
+
+    <!-- Наши три шаблона проектов Minecraft Bedrock -->
+    <directoryProjectGenerator implementation="com.bemoss.ide.wizard.BedrockAddonGenerator"/>
+    <directoryProjectGenerator implementation="com.bemoss.ide.wizard.MinecraftBehaviourPackGenerator"/>
+    <directoryProjectGenerator implementation="com.bemoss.ide.wizard.MinecraftResourcePackGenerator"/>
+  </extensions>
+</idea-plugin>

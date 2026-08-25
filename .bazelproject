@@ -1,0 +1,28 @@
+dot_idea_directory_location: .idea.bazel
+
+directories:
+  .
+  bemoss
+  -java
+  -python
+  -notebooks
+  -jupyter
+  -plugins/groovy
+  -plugins/kotlin
+  -plugins/maven
+  -plugins/gradle
+  -graalvm-debugger
+
+targets:
+  //:main
+
+use_jetbrains_test_runner: false
+
+java_source_root_optimization_enable: true
+java_source_root_optimization_patterns:
+  *
+
+run_config_run_with_bazel: false
+
+import_run_configurations:
+  tools/bazelRunConfigurations/Run___build_idea_community.xml

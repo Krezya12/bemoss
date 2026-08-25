@@ -1,0 +1,14 @@
+<component xmlns="http://jetbrains.org/intellij/schema/application-info">
+  <version major="2026" minor="3" eap="true"/>
+  <company name="Krezya" url="https://t.me/lyuMayn"/>
+  <build number="IC-__BUILD__" date="__BUILD_DATE__"/> <!--majorReleaseDate="20170321"-->
+  <logo url="/bemoss_logo.png"/>
+  <icon svg="/idea-ce.svg" svg-small="/idea-ce_16.svg"/>
+  <icon-eap svg="/idea-ce-eap.svg" svg-small="/idea-ce-eap_16.svg"/>
+  <names product="BeMoss" fullname="BeMoss" script="bemoss"
+         motto="The Leading IDE for Professional Development addons and packs for Minecraft: Bedrock Edition"/>
+
+  <essential-plugin>com.intellij.java</essential-plugin>
+  <essential-plugin>com.intellij.java.ide</essential-plugin>
+  <essential-plugin>com.intellij.modules.json</essential-plugin>
+</component>
