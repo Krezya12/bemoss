@@ -1,3 +1,7 @@
+BeMoss IDE
+Copyright 2026 Mikchaz (https://t.me/mikchaz)
+Author and maintainer: Krezya
+
 This software includes code from IntelliJ IDEA
 Copyright (C) JetBrains s.r.o.
 https://www.jetbrains.com/idea/
