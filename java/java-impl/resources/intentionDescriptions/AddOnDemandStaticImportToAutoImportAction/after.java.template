@@ -1,4 +1,0 @@
-import static java.util.Objects.*;
-
-Editor | General | Auto Import | Java | Include auto-import of static members in completion:
-java.util.Objects

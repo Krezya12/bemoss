@@ -1,6 +1,0 @@
-interface B
-
-object `foo bar`<caret> : B {
-}
-
-val value = `foo bar`

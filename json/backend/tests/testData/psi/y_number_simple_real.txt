@@ -1,6 +1,0 @@
-JsonFile: y_number_simple_real.json
-  JsonArray
-    PsiElement([)('[')
-    JsonNumberLiteral
-      PsiElement(NUMBER)('123.456789')
-    PsiElement(])(']')

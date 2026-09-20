@@ -1,6 +1,0 @@
-JsonFile: n_structure_angle_bracket_null.json
-  JsonArray
-    PsiElement([)('[')
-    JsonReferenceExpression
-      PsiElement(IDENTIFIER)('<null>')
-    PsiElement(])(']')

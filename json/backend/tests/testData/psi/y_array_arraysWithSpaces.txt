@@ -1,8 +1,0 @@
-JsonFile: y_array_arraysWithSpaces.json
-  JsonArray
-    PsiElement([)('[')
-    JsonArray
-      PsiElement([)('[')
-      PsiElement(])(']')
-    PsiWhiteSpace('   ')
-    PsiElement(])(']')

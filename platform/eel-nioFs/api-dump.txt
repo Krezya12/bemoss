@@ -1,2 +1,0 @@
-f:com.intellij.platform.eel.provider.EelPathDescriptorKt
-f:com.intellij.platform.eel.provider.utils.EelPathUtilsKt

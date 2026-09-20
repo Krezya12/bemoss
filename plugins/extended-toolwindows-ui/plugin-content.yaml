@@ -1,3 +1,0 @@
-- name: lib/extendedToolWindowsUi.jar
-  modules:
-  - name: intellij.extendedToolWindowsUi

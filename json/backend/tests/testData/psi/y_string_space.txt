@@ -1,3 +1,0 @@
-JsonFile: y_string_space.json
-  JsonStringLiteral
-    PsiElement(DOUBLE_QUOTED_STRING)('" "')

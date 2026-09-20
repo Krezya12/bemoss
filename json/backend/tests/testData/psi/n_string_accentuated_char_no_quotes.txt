@@ -1,6 +1,0 @@
-JsonFile: n_string_accentuated_char_no_quotes.json
-  JsonArray
-    PsiElement([)('[')
-    JsonReferenceExpression
-      PsiElement(IDENTIFIER)('é')
-    PsiElement(])(']')

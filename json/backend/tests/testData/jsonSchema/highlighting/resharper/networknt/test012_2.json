@@ -1,6 +1,0 @@
-{
-
-  "a": <warning descr="Incompatible types.
- Required one of: number, string. Actual: boolean.">true</warning>
-}
-

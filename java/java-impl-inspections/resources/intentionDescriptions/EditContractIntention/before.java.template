@@ -1,7 +1,0 @@
-class A {
-
-  Object <spot>getObject</spot>() {
-    //do smth
-    return null;
-  }
-}

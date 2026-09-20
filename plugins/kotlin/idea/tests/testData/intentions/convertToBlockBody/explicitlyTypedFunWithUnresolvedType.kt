@@ -1,7 +1,0 @@
-// ERROR: Unresolved reference: XXX
-// ERROR: Unresolved reference: bar
-// K2_AFTER_ERROR: UNRESOLVED_REFERENCE
-// K2_AFTER_ERROR: UNRESOLVED_REFERENCE
-// K2_ERROR: UNRESOLVED_REFERENCE
-// K2_ERROR: UNRESOLVED_REFERENCE
-fun <caret>foo(): XXX = bar()

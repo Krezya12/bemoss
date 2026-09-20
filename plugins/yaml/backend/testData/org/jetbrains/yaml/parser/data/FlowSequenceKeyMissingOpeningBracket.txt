@@ -1,9 +1,0 @@
-YAML file: a.yml
-  YAML document
-    YAML mapping
-      YAML key value
-        PsiElement(scalar key)('a, b]')
-        PsiElement(:)(':')
-        PsiWhiteSpace(' ')
-        YAML plain scalar text
-          PsiElement(text)('value')

@@ -1,5 +1,0 @@
-JsonFile: n_structure_lone_open_bracket.json
-  JsonArray
-    PsiElement([)('[')
-    PsiErrorElement:<literal>, IDENTIFIER, '[', ']' or '{' expected
-      <empty list>

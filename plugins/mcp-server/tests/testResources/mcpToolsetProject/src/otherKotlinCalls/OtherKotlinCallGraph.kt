@@ -1,4 +1,0 @@
-package otherKotlinCalls
-
-fun ambiguousKotlinEntry() {
-}

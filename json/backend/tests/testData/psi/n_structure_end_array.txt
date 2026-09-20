@@ -1,3 +1,0 @@
-JsonFile: n_structure_end_array.json
-  PsiErrorElement:<literal>, IDENTIFIER, '[' or '{' expected, got ']'
-    PsiElement(])(']')

@@ -1,8 +1,0 @@
-JsonFile: n_array_a_invalid_utf8.json
-  JsonArray
-    PsiElement([)('[')
-    JsonReferenceExpression
-      PsiElement(IDENTIFIER)('a')
-    PsiErrorElement:',' or ']' expected, got '�'
-      PsiElement(BAD_CHARACTER)('�')
-    PsiElement(])(']')

@@ -1,2 +1,0 @@
-dev/detekt/**
-org/jetbrains/kotlin/psi/**

@@ -1,3 +1,0 @@
-JsonFile: n_structure_ascii_unicode_identifier.json
-  JsonReferenceExpression
-    PsiElement(IDENTIFIER)('aå')

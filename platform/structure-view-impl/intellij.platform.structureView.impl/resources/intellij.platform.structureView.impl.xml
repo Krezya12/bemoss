@@ -1,6 +1,0 @@
-<idea-plugin visibility="public">
-  <!--dummy module for compatibility after the rename-->
-  <dependencies>
-    <module name="intellij.platform.structureView"/>
-  </dependencies>
-</idea-plugin>

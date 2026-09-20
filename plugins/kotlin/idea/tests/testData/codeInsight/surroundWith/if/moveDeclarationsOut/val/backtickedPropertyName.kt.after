@@ -1,7 +1,0 @@
-fun foo() {
-    val `when`: String = if (<caret>) {
-        "aaa"
-    }
-
-    `when`[1]
-}

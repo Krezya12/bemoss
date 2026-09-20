@@ -1,7 +1,0 @@
-String f(int n) {
-  return switch (n) {
-    case 1 -> "x";
-    case 2 -> "x";
-    default -> null;
-  };
-}

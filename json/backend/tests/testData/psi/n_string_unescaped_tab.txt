@@ -1,6 +1,0 @@
-JsonFile: n_string_unescaped_tab.json
-  JsonArray
-    PsiElement([)('[')
-    JsonStringLiteral
-      PsiElement(DOUBLE_QUOTED_STRING)('"\t"')
-    PsiElement(])(']')

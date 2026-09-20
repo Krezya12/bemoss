@@ -1,2 +1,0 @@
-JsonFile: n_single_space.json
-  <empty list>

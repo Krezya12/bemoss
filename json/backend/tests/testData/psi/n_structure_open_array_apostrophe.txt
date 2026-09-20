@@ -1,7 +1,0 @@
-JsonFile: n_structure_open_array_apostrophe.json
-  JsonArray
-    PsiElement([)('[')
-    JsonStringLiteral
-      PsiElement(SINGLE_QUOTED_STRING)(''')
-    PsiErrorElement:',' or ']' expected
-      <empty list>

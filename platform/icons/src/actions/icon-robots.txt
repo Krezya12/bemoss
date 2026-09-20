@@ -1,1 +1,0 @@
-deprecated: enableNewUi.svg; to be removed without replacement

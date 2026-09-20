@@ -1,3 +1,0 @@
-JsonFile: y_structure_lonely_negative_real.json
-  JsonNumberLiteral
-    PsiElement(NUMBER)('-0.1')

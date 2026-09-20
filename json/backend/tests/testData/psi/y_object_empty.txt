@@ -1,4 +1,0 @@
-JsonFile: y_object_empty.json
-  JsonObject
-    PsiElement({)('{')
-    PsiElement(})('}')

@@ -1,3 +1,0 @@
-<spot>sealed</spot> class Main { }
-<spot>non-sealed</spot> class Direct1 extends Main {}
-class NonDirect extends Direct1 {}

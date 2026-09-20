@@ -1,5 +1,0 @@
-top:
-  nested:
-    seq:
-      - item1
-    <caret>

@@ -1,2 +1,0 @@
-record Param(int... i) {
-}

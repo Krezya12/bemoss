@@ -1,7 +1,0 @@
-JsonFile: n_array_incomplete_invalid_value.json
-  JsonArray
-    PsiElement([)('[')
-    JsonReferenceExpression
-      PsiElement(IDENTIFIER)('x')
-    PsiErrorElement:',' or ']' expected
-      <empty list>

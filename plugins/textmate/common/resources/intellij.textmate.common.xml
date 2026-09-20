@@ -1,7 +1,0 @@
-<idea-plugin>
-  <dependencies>
-    <module name="intellij.textmate"/>
-    <module name="intellij.textmate.core"/>
-    <module name="intellij.textmate.joni"/>
-  </dependencies>
-</idea-plugin>

@@ -1,3 +1,0 @@
-package second
-
-object Key

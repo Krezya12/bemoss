@@ -1,3 +1,0 @@
-JsonFile: n_structure_lone_invalid_utf_8.json
-  PsiErrorElement:<literal>, IDENTIFIER, '[' or '{' expected, got '�'
-    PsiElement(BAD_CHARACTER)('�')

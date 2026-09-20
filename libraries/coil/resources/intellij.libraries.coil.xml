@@ -1,6 +1,0 @@
-<idea-plugin visibility="public">
-  <dependencies>
-    <module name="intellij.libraries.compose.foundation.desktop" />
-    <module name="intellij.libraries.ktor.client" />
-  </dependencies>
-</idea-plugin>

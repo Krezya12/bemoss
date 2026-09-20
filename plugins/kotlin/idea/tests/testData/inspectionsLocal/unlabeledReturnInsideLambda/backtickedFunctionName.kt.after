@@ -1,8 +1,0 @@
-inline fun foo(f: () -> Unit) {}
-
-fun `T _ T`(): Int {
-    foo {
-        return@`T _ T` 0
-    }
-    return 1
-}

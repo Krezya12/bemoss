@@ -1,6 +1,0 @@
-JsonFile: n_structure_capitalized_True.json
-  JsonArray
-    PsiElement([)('[')
-    JsonReferenceExpression
-      PsiElement(IDENTIFIER)('True')
-    PsiElement(])(']')

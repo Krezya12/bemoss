@@ -1,7 +1,0 @@
--ContextParameters.kt
- context(Int, Int)
- f(): Unit
- context(Int, Int)
- p: Int
- context(Int, Int)
- String.g(): Unit

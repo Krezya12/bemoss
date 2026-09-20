@@ -1,5 +1,0 @@
-// COMPILER_ARGUMENTS: -Xcontext-parameters
-
-context(i: Int, string: String)
-val foo: Int
-    get() = i + string.length

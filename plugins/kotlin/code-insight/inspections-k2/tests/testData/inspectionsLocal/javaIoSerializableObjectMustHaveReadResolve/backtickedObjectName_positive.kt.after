@@ -1,3 +1,0 @@
-object `6-7` : java.io.Serializable {
-    private fun readResolve(): Any = `6-7`
-}

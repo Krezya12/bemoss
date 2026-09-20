@@ -1,3 +1,0 @@
-val f: context(String)Foo.() -> Unit = TODO()
-
-// SET_TRUE: SPACE_AFTER_CONTEXT_PARAMETER_LIST_IN_FUNCTION_TYPE

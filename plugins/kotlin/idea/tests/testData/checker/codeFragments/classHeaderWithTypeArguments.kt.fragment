@@ -1,1 +1,0 @@
-this.foo(<error descr="[TYPE_MISMATCH]">"a"</error>)

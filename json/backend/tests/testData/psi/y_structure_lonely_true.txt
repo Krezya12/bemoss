@@ -1,3 +1,0 @@
-JsonFile: y_structure_lonely_true.json
-  JsonBooleanLiteral
-    PsiElement(true)('true')

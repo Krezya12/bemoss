@@ -1,8 +1,0 @@
-// FIX: Convert to collection builder
-
-fun main() {
-    val a = buildList {
-        addAll(listOf(1,2))
-        addAll(listOf(3))
-    }
-}

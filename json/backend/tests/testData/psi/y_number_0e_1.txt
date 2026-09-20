@@ -1,6 +1,0 @@
-JsonFile: y_number_0e_1.json
-  JsonArray
-    PsiElement([)('[')
-    JsonNumberLiteral
-      PsiElement(NUMBER)('0e+1')
-    PsiElement(])(']')

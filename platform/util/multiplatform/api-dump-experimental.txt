@@ -1,4 +1,0 @@
-*f:com.intellij.openapi.util.text.StringUtilKmp
-- sf:containsLineBreak(java.lang.CharSequence):Z
-- sf:getLineBreakCount(java.lang.CharSequence):I
-- sf:isLineBreak(C):Z

@@ -1,1 +1,0 @@
-a <error descr="Elvis assignments are available in Groovy 3.0 and later">?=</error> b

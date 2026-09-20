@@ -1,3 +1,0 @@
-JsonFile: n_structure_angle_bracket__.json
-  JsonReferenceExpression
-    PsiElement(IDENTIFIER)('<.>')

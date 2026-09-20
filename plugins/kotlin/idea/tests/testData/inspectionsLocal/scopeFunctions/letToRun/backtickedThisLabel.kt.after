@@ -1,9 +1,0 @@
-// FIX: Convert to 'run'
-
-class Foo
-
-class `Bar Baz` {
-    val x = Foo().run {
-        this to this@`Bar Baz`
-    }
-}

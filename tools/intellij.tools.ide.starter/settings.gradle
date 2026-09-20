@@ -1,4 +1,0 @@
-rootProject.name = "ide-starter"
-
-//includeBuild '../../plugins/performanceTesting/event-bus'
-//includeBuild '../../plugins/performanceTesting/commands-model'

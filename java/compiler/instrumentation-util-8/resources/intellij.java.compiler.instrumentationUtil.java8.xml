@@ -1,4 +1,0 @@
-<idea-plugin>
-    <!--instrumentationUtil loads some classes from this module, so these modules should be embedded-->
-</idea-plugin>
-

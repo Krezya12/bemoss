@@ -1,6 +1,0 @@
-JsonFile: n_array_just_minus.json
-  JsonArray
-    PsiElement([)('[')
-    JsonReferenceExpression
-      PsiElement(IDENTIFIER)('-')
-    PsiElement(])(']')

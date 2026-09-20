@@ -1,7 +1,0 @@
-JsonFile: n_structure_double_array.json
-  JsonArray
-    PsiElement([)('[')
-    PsiElement(])(']')
-  JsonArray
-    PsiElement([)('[')
-    PsiElement(])(']')

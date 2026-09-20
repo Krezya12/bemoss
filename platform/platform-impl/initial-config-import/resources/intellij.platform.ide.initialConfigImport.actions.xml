@@ -1,5 +1,0 @@
-<idea-plugin>
-  <actions>
-    <action id="DeleteOldAppDirs" class="com.intellij.ide.actions.DeleteOldAppDirectoriesAction"/>
-  </actions>
-</idea-plugin>

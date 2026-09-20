@@ -1,3 +1,0 @@
-JsonFile: y_structure_lonely_int.json
-  JsonNumberLiteral
-    PsiElement(NUMBER)('42')

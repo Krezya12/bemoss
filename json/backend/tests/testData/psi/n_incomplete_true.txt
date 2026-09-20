@@ -1,6 +1,0 @@
-JsonFile: n_incomplete_true.json
-  JsonArray
-    PsiElement([)('[')
-    JsonReferenceExpression
-      PsiElement(IDENTIFIER)('tru')
-    PsiElement(])(']')
